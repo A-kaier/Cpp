@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Apply\\3Specialized\\Visual Studio 2022\\Cpp\\2024_8_27\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D91DAD-078C-4DE9-81E3-96EC94AB6697}|C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A).vcxproj|C:\\Apply\\3Specialized\\Visual Studio 2022\\Cpp\\2024_8_27\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79D91DAD-078C-4DE9-81E3-96EC94AB6697}|C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A).vcxproj|solutionrelative:C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A).cpp",
+              "DocumentMoniker": "C:\\Apply\\3Specialized\\Visual Studio 2022\\Cpp\\2024_8_27\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A).cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A).cpp",
+              "ToolTip": "C:\\Apply\\3Specialized\\Visual Studio 2022\\Cpp\\2024_8_27\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A).cpp",
+              "RelativeToolTip": "C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A)\\C\u002B\u002B\u6570\u636E\u7C7B\u578B(\u4E0A).cpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T05:53:04.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
