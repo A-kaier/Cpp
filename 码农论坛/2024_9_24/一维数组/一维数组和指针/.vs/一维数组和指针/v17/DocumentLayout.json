@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Apply\\3Specialized\\Visual Studio 2022\\Cpp\\2024_9_24\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1415549C-2BC1-4D43-A0AD-F22EEDACAE3C}|\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488.vcxproj|C:\\Apply\\3Specialized\\Visual Studio 2022\\Cpp\\2024_9_24\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1415549C-2BC1-4D43-A0AD-F22EEDACAE3C}|\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488.vcxproj|solutionrelative:\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488.cpp",
+              "DocumentMoniker": "C:\\Apply\\3Specialized\\Visual Studio 2022\\Cpp\\2024_9_24\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488.cpp",
+              "RelativeDocumentMoniker": "\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488.cpp",
+              "ToolTip": "C:\\Apply\\3Specialized\\Visual Studio 2022\\Cpp\\2024_9_24\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488.cpp",
+              "RelativeToolTip": "\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488\\\u4E00\u7EF4\u6570\u7EC4\u548C\u6307\u9488.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T07:35:22.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
