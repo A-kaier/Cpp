@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cpp\\Cpp\\\u7C7B\u4E0E\u5BF9\u8C61(\u4E0B)\\\u7C7B\u7684\u9759\u6001\u6210\u5458\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C46533E-9EEF-48AC-AE37-93EF1E809CE7}|\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458.vcxproj|D:\\Cpp\\Cpp\\\u7C7B\u4E0E\u5BF9\u8C61(\u4E0B)\\\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C46533E-9EEF-48AC-AE37-93EF1E809CE7}|\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458.vcxproj|solutionrelative:\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7C7B\u7684\u9759\u6001\u6210\u5458.cpp",
+              "DocumentMoniker": "D:\\Cpp\\Cpp\\\u7C7B\u4E0E\u5BF9\u8C61(\u4E0B)\\\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458.cpp",
+              "RelativeDocumentMoniker": "\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458.cpp",
+              "ToolTip": "D:\\Cpp\\Cpp\\\u7C7B\u4E0E\u5BF9\u8C61(\u4E0B)\\\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458.cpp",
+              "RelativeToolTip": "\u7C7B\u7684\u9759\u6001\u6210\u5458\\\u7C7B\u7684\u9759\u6001\u6210\u5458.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T09:06:06.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

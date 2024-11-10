@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cpp\\Cpp\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2C382F-DE38-46A4-97A5-50AB625A56F3}|\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840.vcxproj|D:\\Cpp\\Cpp\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE2C382F-DE38-46A4-97A5-50AB625A56F3}|\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840.vcxproj|solutionrelative:\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840.cpp",
+              "DocumentMoniker": "D:\\Cpp\\Cpp\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840.cpp",
+              "RelativeDocumentMoniker": "\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840.cpp",
+              "ToolTip": "D:\\Cpp\\Cpp\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840.cpp",
+              "RelativeToolTip": "\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840\\\u8FD0\u7B97\u7B26\u91CD\u8F7D\u57FA\u7840.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T08:06:31.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

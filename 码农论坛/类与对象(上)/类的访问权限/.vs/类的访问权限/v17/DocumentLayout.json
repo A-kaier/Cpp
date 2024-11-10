@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cpp\\Cpp\\\u7C7B\u4E0E\u5BF9\u8C61(\u4E0A)\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2214445F-497F-408A-96A2-AEED459B7876}|\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650.vcxproj|D:\\Cpp\\Cpp\\\u7C7B\u4E0E\u5BF9\u8C61(\u4E0A)\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2214445F-497F-408A-96A2-AEED459B7876}|\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650.vcxproj|solutionrelative:\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7C7B\u7684\u8BBF\u95EE\u6743\u9650.cpp",
+              "DocumentMoniker": "D:\\Cpp\\Cpp\\\u7C7B\u4E0E\u5BF9\u8C61(\u4E0A)\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650.cpp",
+              "RelativeDocumentMoniker": "\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650.cpp",
+              "ToolTip": "D:\\Cpp\\Cpp\\\u7C7B\u4E0E\u5BF9\u8C61(\u4E0A)\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650.cpp",
+              "RelativeToolTip": "\u7C7B\u7684\u8BBF\u95EE\u6743\u9650\\\u7C7B\u7684\u8BBF\u95EE\u6743\u9650.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T00:47:12.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

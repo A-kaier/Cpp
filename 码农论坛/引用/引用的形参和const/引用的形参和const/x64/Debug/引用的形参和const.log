@@ -1,0 +1,9 @@
+﻿  引用的形参和const.cpp
+D:\Cpp\Cpp\引用\引用的形参和const\引用的形参和const\引用的形参和const.cpp(27,2): error C2664: “void func2(const int *,const std::string *)”: 无法将参数 1 从“int”转换为“const int *”
+      D:\Cpp\Cpp\引用\引用的形参和const\引用的形参和const\引用的形参和const.cpp(27,8):
+      从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+      D:\Cpp\Cpp\引用\引用的形参和const\引用的形参和const\引用的形参和const.cpp(12,6):
+      参见“func2”的声明
+      D:\Cpp\Cpp\引用\引用的形参和const\引用的形参和const\引用的形参和const.cpp(27,2):
+      尝试匹配参数列表“(int, const char [17])”时
+  
