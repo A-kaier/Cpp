@@ -1,0 +1,6 @@
+﻿  指针和内存(上).cpp
+C:\Apply\3Specialized\Visual Studio 2022\Cpp\2024_9_11\指针和内存(上)\指针和内存(上)\指针和内存(上).cpp(17,7): warning C4101: “a2”: 未引用的局部变量
+C:\Apply\3Specialized\Visual Studio 2022\Cpp\2024_9_11\指针和内存(上)\指针和内存(上)\指针和内存(上).cpp(10,9): warning C4101: “b”: 未引用的局部变量
+C:\Apply\3Specialized\Visual Studio 2022\Cpp\2024_9_11\指针和内存(上)\指针和内存(上)\指针和内存(上).cpp(10,11): warning C4101: “c”: 未引用的局部变量
+C:\Apply\3Specialized\Visual Studio 2022\Cpp\2024_9_11\指针和内存(上)\指针和内存(上)\指针和内存(上).cpp(10,14): warning C4101: “d”: 未引用的局部变量
+  指针和内存(上).vcxproj -> C:\Apply\3Specialized\Visual Studio 2022\Cpp\2024_9_11\指针和内存(上)\x64\Debug\指针和内存(上).exe
