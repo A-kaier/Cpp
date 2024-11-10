@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C-C\u002B\u002B\\Cpp\\2024_9_28\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6327EB41-49BC-4A9C-AE49-D0060E55A277}|\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort.vcxproj|C:\\C-C\u002B\u002B\\Cpp\\2024_9_28\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8Fqsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6327EB41-49BC-4A9C-AE49-D0060E55A277}|\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort.vcxproj|solutionrelative:\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8Fqsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8Fqsort.cpp",
+              "DocumentMoniker": "C:\\C-C\u002B\u002B\\Cpp\\2024_9_28\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8Fqsort.cpp",
+              "RelativeDocumentMoniker": "\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8Fqsort.cpp",
+              "ToolTip": "C:\\C-C\u002B\u002B\\Cpp\\2024_9_28\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8Fqsort.cpp",
+              "RelativeToolTip": "\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8F qsort\\\u4E00\u7EF4\u6570\u7EC4\u7684\u6392\u5E8Fqsort.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T06:34:04.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
