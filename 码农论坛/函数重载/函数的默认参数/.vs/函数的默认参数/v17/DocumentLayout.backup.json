@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cpp\\Cpp\\\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26426A65-F607-4B5E-8C73-F5470DD90115}|\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570.vcxproj|D:\\Cpp\\Cpp\\\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26426A65-F607-4B5E-8C73-F5470DD90115}|\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570.vcxproj|solutionrelative:\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570.cpp",
+              "DocumentMoniker": "D:\\Cpp\\Cpp\\\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570.cpp",
+              "RelativeDocumentMoniker": "\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570.cpp",
+              "ToolTip": "D:\\Cpp\\Cpp\\\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570.cpp",
+              "RelativeToolTip": "\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570\\\u51FD\u6570\u7684\u9ED8\u8BA4\u53C2\u6570.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T10:14:37.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
