@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(变量和常量、算术运算、关系运算.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  text.cpp
+  变量、产量、算术运算、关系运算.vcxproj -> C:\Apply\3Specialized\Visual Studio 2022\Cpp\2024_8_10\变量、产量、算术运算、关系运算\x64\Debug\变量、常量、输入数据、算术运算、关系运算.exe
