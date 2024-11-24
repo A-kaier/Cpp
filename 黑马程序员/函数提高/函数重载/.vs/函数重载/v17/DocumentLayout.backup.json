@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\Cpp\\\u9ED1\u9A6C\u7A0B\u5E8F\u5458\\\u51FD\u6570\u63D0\u9AD8\\\u51FD\u6570\u91CD\u8F7D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B9F9E9-8739-45C4-B75A-1CB6039A4B73}|\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D.vcxproj|D:\\Learn\\Cpp\\\u9ED1\u9A6C\u7A0B\u5E8F\u5458\\\u51FD\u6570\u63D0\u9AD8\\\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B9F9E9-8739-45C4-B75A-1CB6039A4B73}|\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D.vcxproj|solutionrelative:\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u51FD\u6570\u91CD\u8F7D.cpp",
+              "DocumentMoniker": "D:\\Learn\\Cpp\\\u9ED1\u9A6C\u7A0B\u5E8F\u5458\\\u51FD\u6570\u63D0\u9AD8\\\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D.cpp",
+              "RelativeDocumentMoniker": "\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D.cpp",
+              "ToolTip": "D:\\Learn\\Cpp\\\u9ED1\u9A6C\u7A0B\u5E8F\u5458\\\u51FD\u6570\u63D0\u9AD8\\\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D.cpp",
+              "RelativeToolTip": "\u51FD\u6570\u91CD\u8F7D\\\u51FD\u6570\u91CD\u8F7D.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T09:05:27.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
