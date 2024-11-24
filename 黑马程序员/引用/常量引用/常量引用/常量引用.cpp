@@ -22,6 +22,12 @@ int main()
 	int a = 100;
 	showvalue(a);
 	cout << "a = " << a << endl;
+  
+
+
+
+	 
+	 
 
 	system("pause");
 	return 0;
