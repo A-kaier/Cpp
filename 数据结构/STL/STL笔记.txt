@@ -1,0 +1,4 @@
+计算vector的长度为 命名.sizeof() ，用 for 循环输出
+
+静态数组：可以使用 sizeof(arr) / sizeof(arr[0]) 来计算长度。
+动态数组（如 vector）：使用 size() 方法获取长度。
