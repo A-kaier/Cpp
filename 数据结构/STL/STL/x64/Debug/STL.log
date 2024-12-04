@@ -1,0 +1,3 @@
+﻿  向量 vector.cpp
+D:\Learn\Cpp\数据结构\STL\STL\向量 vector.cpp(134,16): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+LINK : fatal error LNK1168: 无法打开 D:\Learn\Cpp\数据结构\STL\x64\Debug\STL.exe 进行写入
