@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="对象的初始化和清理.cpp">
+    <ClCompile Include="构造函数和析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="构造函数的分类及调用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
